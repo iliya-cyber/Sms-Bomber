@@ -3,12 +3,6 @@ from colorama import Fore, Back, Style
 
 banner = """
 	Добро пожаловать в sms bomber
-	/-----------------\
-	|	#*&8	  |
-    	|		  |
-	\---------------  |
-			\ |
-			 \|
 """
 
 print(banner)
