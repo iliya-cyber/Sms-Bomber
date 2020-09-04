@@ -2,9 +2,13 @@ import requests, random, datetime, sys, time, argparse, os
 from colorama import Fore, Back, Style
 
 banner = """
-
-    
-
+	Добро пожаловать в sms bomber
+	/-----------------\
+	|	#*&8	  |
+    	|		  |
+	\---------------  |
+			\ |
+			 \|
 """
 
 print(banner)
