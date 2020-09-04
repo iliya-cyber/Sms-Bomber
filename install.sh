@@ -1,3 +1,3 @@
-apt install python -y
-pip install requests -y 
+apt install python 
+pip install requests 
 echo "А теперь запусти файл bomber.py"
